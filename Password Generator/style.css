@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap");
+body {
+  background-image: url("wallpaper-graphics-16.jpg");
+  background-size: cover;
+
+  font-family: "Poppins", sans-serif;
+}
+.box {
+  margin-top: 10rem;
+  text-align: center;
+
+  height: 18rem;
+  margin-left: 14rem;
+  width: 30%;
+  display: ;
+}
+#in {
+  width: 40%;
+  height: 2rem;
+  border: 2px solid blueviolet;
+  background-color: blueviolet;
+  border-radius: 12px;
+  margin-left: 7.5rem;
+}
+#gnrt {
+  background: transparent;
+  border: none;
+  background-color: blueviolet;
+  padding: 5px 15px;
+  margin-top: 1rem;
+}
